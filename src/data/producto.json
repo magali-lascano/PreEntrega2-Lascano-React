@@ -1,0 +1,23 @@
+[
+    {
+        "id": "Prod 1",
+        "foto": "../assets/lskn-logo.png",
+        "nombre": "Producto 1",
+        "categoria":"a",
+        "precio": 999
+    },
+    {
+        "id": "Prod 2",
+        "foto": "../assets/lskn-logo.png",
+        "nombre": "Producto 2",
+        "categoria": "b", 
+        "precio": 999
+    },
+    {
+        "id": "Prod 3",
+        "foto": "../assets/lskn-logo.png",
+        "nombre": "Producto 3",
+        "categoria": "c", 
+        "precio": 999
+    }
+]
